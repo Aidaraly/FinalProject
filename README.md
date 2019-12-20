@@ -1,4 +1,9 @@
 # FinalProject
 I create this website to do shopping Online, you can buy the best gadgets. In near future I'll update my site and it would be better.
 Link for my Web Site https://aidaraly.github.io/FinalProject/ 
-#Screenshots of my Web Site, https://photos.app.goo.gl/8G9UL6yu3X6Kv9y37, https://photos.app.goo.gl/Es6qEmVZ4XQJdU858, https://photos.app.goo.gl/xdZgyM1kQvHfxKgU8, https://photos.app.goo.gl/cTEGFVyh2HLVuGdC8 and https://photos.app.goo.gl/o2pXen1dtsviUb1XA.
+#Screenshots of my Web Site,
+![Alt text](https://i.imgur.com/jY4NXds.png)
+![Alt text](https://i.imgur.com/wmZ4bg7.png)
+![Alt text](https://i.imgur.com/YdciDXa.png)
+![Alt text](https://i.imgur.com/ZhR7Fy6.png)
+![Alt text](https://i.imgur.com/S4Z3QZy.png)
