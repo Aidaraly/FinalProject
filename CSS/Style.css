@@ -1,5 +1,5 @@
 html, body {
-    
+
     overflow-x: hidden;
 }
 .block {
@@ -94,7 +94,7 @@ ul, ol {
     width: 100%;
     padding: 23px;
     font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    text-transform: uppercase;
+
     color: rgba(255, 55, 198, 0.5);
 }
 .social-container .col {
@@ -112,3 +112,6 @@ ul, ol {
     visibility: hidden;
     transition: .22s ease;
 }
+
+
+
